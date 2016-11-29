@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1012673863504",
+    "firebase_url": "https://ncaa-footballmemes.firebaseio.com",
+    "project_id": "ncaa-footballmemes",
+    "storage_bucket": "ncaa-footballmemes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012673863504:android:48dadbd608ee1715",
+        "android_client_info": {
+          "package_name": "io.github.qetennyson.cfpinclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012673863504-a8pa0308fnbp7sslb2i1d1ac2mtcueau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.qetennyson.cfpinclass",
+            "certificate_hash": "5ED01F52ADA22039C2383CE1F0E40AD431EDE3C8"
+          }
+        },
+        {
+          "client_id": "1012673863504-qimg6unnqjr0up3vc71le4r5id1chbfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiA5-wpY9c6rlNgJ1Snw816qTZT7Z_mQo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012673863504-qimg6unnqjr0up3vc71le4r5id1chbfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
